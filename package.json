@@ -1,0 +1,29 @@
+{
+  "name": "rest-api",
+  "version": "0.0.0",
+  "description": "TDD REST API tutorial exercise",
+  "main": "rest-api.js",
+  "dependencies": {
+    "superagent": "~0.14.4",
+    "mongoskin": "~0.6.0",
+    "express": "~3.4.0",
+    "expect.js": "~0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/"
+  },
+  "keywords": [
+    "TDD",
+    "REST",
+    "tutorial"
+  ],
+  "author": "Francis Norton",
+  "license": "BSD-2-Clause"
+}
